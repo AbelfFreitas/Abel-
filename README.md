@@ -1,4 +1,4 @@
-👋 Eu sou Abbel
+👋 Eu sou Abel
 
 Sempre fui atraído(a) por computadores. Tenho uma pessoal em virar um desenvolvedor de software sênior.
 
